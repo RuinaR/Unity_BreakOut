@@ -1,1 +1,6 @@
-# Unity_ClickerGame_BreakOut
+# Unity_BreakOut
+
+Unity 2019.4.1f1 (64-bit)
+
+게임기획 과제용으로,
+예전에 연습용으로 만들던거 마구잡이로 고쳐 만든 벽돌깨기 게임입니다.
