@@ -1,0 +1,18 @@
+{
+  "nDefaultBallMaxHp": 100,
+  "nDefaultBlockMaxHp": 50,
+  "nDefaultBallPower": 10,
+  "nDefaultBlockPower": 10,
+  "fDefaultInvincibilityTime": 1.5,
+  "fDefaultBallSpeed": 7.0,
+  "fReinforceIncrease": 1.5,
+  "fShieldRatio": 0.5,
+  "fRecoveryProbability": 0.05,
+  "nRecoveryValue": 10,
+  "assistanceLine": true,
+  "nBlockICreateCount": 3,
+  "nBlockAttackTime": 7,
+  "nStageTime": 180,
+  "nStartBlockLine": 2,
+  "fNoBlockProbability": 0.2
+}

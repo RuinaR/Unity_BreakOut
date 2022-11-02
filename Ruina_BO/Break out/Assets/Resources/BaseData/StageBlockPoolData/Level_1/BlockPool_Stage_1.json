@@ -1,0 +1,58 @@
+{
+  "Items": [
+    {
+      "eType": 0,
+      "isReinforce": false,
+      "bLeftShield": false,
+      "bRightShield": false,
+      "bUpShield": false,
+      "bDownShield": false,
+      "fRandomRatio": 10.0
+    },
+    {
+      "eType": 1,
+      "isReinforce": false,
+      "bLeftShield": false,
+      "bRightShield": false,
+      "bUpShield": true,
+      "bDownShield": true,
+      "fRandomRatio": 20.0
+    },
+    {
+      "eType": 2,
+      "isReinforce": false,
+      "bLeftShield": true,
+      "bRightShield": false,
+      "bUpShield": true,
+      "bDownShield": true,
+      "fRandomRatio": 30.0
+    },
+    {
+      "eType": 0,
+      "isReinforce": true,
+      "bLeftShield": false,
+      "bRightShield": false,
+      "bUpShield": false,
+      "bDownShield": false,
+      "fRandomRatio": 40.0
+    },
+    {
+      "eType": 1,
+      "isReinforce": true,
+      "bLeftShield": false,
+      "bRightShield": false,
+      "bUpShield": true,
+      "bDownShield": true,
+      "fRandomRatio": 50.0
+    },
+    {
+      "eType": 2,
+      "isReinforce": true,
+      "bLeftShield": true,
+      "bRightShield": false,
+      "bUpShield": true,
+      "bDownShield": true,
+      "fRandomRatio": 60.0
+    }
+  ]
+}
